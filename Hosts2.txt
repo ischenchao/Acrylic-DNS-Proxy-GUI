@@ -2021,16 +2021,6 @@
 127.0.0.1 api.appjiagu.com
 127.0.0.1 c.appjiagu.com
 127.0.0.1 s.appjiagu.com
-127.0.0.1 icon.51.la
-127.0.0.1 img.users.51.la
-127.0.0.1 js.users.51.la
-127.0.0.1 quote.51.la
-127.0.0.1 users.51.la
-127.0.0.1 web.51.la
-127.0.0.1 web1.51.la
-127.0.0.1 web2.51.la
-127.0.0.1 www.51.la
-127.0.0.1 s4.55.la
 127.0.0.1 count20.51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
