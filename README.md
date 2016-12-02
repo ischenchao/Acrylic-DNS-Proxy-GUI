@@ -29,7 +29,7 @@
 * 8.在线聊天是个匿名的P2P聊天室，它没有中间服务器记录，所以理论上匿名/自由，但也因没有中间服务器记录聊天历史，所以通常多数人进去后会以为没有人。
 
 ##进程信息：
-#######[功能全开下共为四个进程，内存占用约20M]
+######[功能全开下共为四个进程，内存占用约20M]
 * 1.Acrylic DNS Proxy GUI 3.5.exe   [GUI主进程，在启动后可以关闭，不影响DNS解析和Dnscrypt还有科学上网服务，内存占用1-5M左右] 
 * 2.AcrylicService.exe   [DNS解析主要后台进程，正确安装服务后此进程随系统开机自启，内存占用5-10M左右]
 * 3.Dnscrypt-Proxy.exe   [Dnscrypt加密DNS解析服务，正确安装服务后此进程随系统开机自启，此为可选组件，内存占用1M左右]
@@ -69,6 +69,6 @@
 ```javascript
   var ihubo = {
     nickName  : "如果我有時光機",
-    site : "http://jser.me"
+    site : "http://www.google.com.free"
   }
 ```
