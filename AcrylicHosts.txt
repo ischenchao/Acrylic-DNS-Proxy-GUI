@@ -4,7 +4,7 @@
 127.0.0.1 localhost localhost.localdomain
 ::1 localhost localhost.localdomain
 #×Ô¶¨ -------------------------------------------------------------------------------------------------------------
-173.194.66.94 >google.co* >gstatic.com >googleusercontent.com >googleadservices.com
+223.255.227.170 >google.co* >gstatic.com >googleusercontent.com >googleadservices.com
 207.241.224.52 archive.org www.archive.org
 163.44.136.42 live.tvb.com
 #########################################################################
