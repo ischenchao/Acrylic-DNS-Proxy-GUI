@@ -1,5 +1,4 @@
 # 更新日期：2017-04-20 #
-
 #屏蔽统计
 0.0.0.0 >bshare.cn
 0.0.0.0 >bashare.cn
@@ -16,11 +15,12 @@
 0.0.0.0 >sax.sina.cn
 #0.0.0.0 >sj.qq.com
 0.0.0.0 >s.pcapps.qq.com
+
 #屏蔽恶意扫描DNS
 0.0.0.0 >dns-spider.ffdns.net
+
 #流氓下载站
 0.0.0.0 >skycn.net >skycn.com soft.hao123.com rj.baidu.com baoku.360.cn soft.360.cn
-
 0.0.0.0 trace.ynet.com
 0.0.0.0 rel.discuz.soso.com
 0.0.0.0 ykatr.youku.com

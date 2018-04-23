@@ -1,8 +1,8 @@
 #此处为SNI反代HOSTS，以下所有域名必须以HTTPS方式访问！！！
 #这里是精简版，不包括谷歌/脸书/推特和某些不需要反代的域名！！！
 #强制HTTPS网站列表：https://cs.chromium.org/chromium/src/net/http/transport_security_state_static.json?q=neveta.com&sq=package:chromium&type=cs&l=4970
-
 # Force HTTPS for sites that have requested it.
+
 #219.76.4.78 >paypal.com
 219.76.4.78 >elanex.biz
 #219.76.4.78 >jottit.com
@@ -58,7 +58,6 @@
 219.76.4.78 >crypto.cat
 219.76.4.78 >bigshinylock.minazo.net
 219.76.4.78 >crate.io
-
 219.76.4.78 >braintreegateway.com
 219.76.4.78 >braintreepayments.com
 219.76.4.78 >emailprivacytester.com
@@ -698,7 +697,6 @@
 219.76.4.78 >translatoruk.co.uk
 219.76.4.78 >wepay.in.th
 219.76.4.78 >zixiao.wang
-
 219.76.4.78 >ahoyconference.com
 219.76.4.78 >balcan-underground.net
 219.76.4.78 >baldwinkoo.com
@@ -731,10 +729,8 @@
 219.76.4.78 >tickopa.co.uk
 219.76.4.78 >wieninternational.at
 219.76.4.78 >fleximus.org
-
     # Facebook would like to have pinning enforced on (*.)facebook.com and
     # HSTS enforced on specific names.
-
 219.76.4.78 >messenger.com
 219.76.4.78 >0x0a.net
 219.76.4.78 >animurecs.com
@@ -24355,7 +24351,6 @@
 219.76.4.78 >xenoworld.de
 219.76.4.78 >xeonlab.com
 219.76.4.78 >xeonlab.de
-
 219.76.4.78 >xr.cx
 219.76.4.78 >xzclip.cn
 219.76.4.78 >yangjingwen.cn
@@ -24428,7 +24423,6 @@
 219.76.4.78 >smartpass.government.ae
 219.76.4.78 >arlet.click
 219.76.4.78 >service.gov.uk
-
 219.76.4.78 >crypto.is
 219.76.4.78 >ritter.vg
 219.76.4.78 >tails.boum.org
