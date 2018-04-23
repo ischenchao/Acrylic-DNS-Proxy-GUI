@@ -3,7 +3,7 @@
 #屏蔽统计
 0.0.0.0 >bshare.cn
 0.0.0.0 >bashare.cn
-0.0.0.0 >3001.net
+#0.0.0.0 >3001.net
 0.0.0.0 >pic.x.soso.com
 0.0.0.0 >pingma.qq.com
 #0.0.0.0 >51.la
@@ -14,7 +14,7 @@
 #0.0.0.0 >doubleclick.net
 0.0.0.0 >beacon.sina.com.cn
 0.0.0.0 >sax.sina.cn
-0.0.0.0 >sj.qq.com
+#0.0.0.0 >sj.qq.com
 0.0.0.0 >s.pcapps.qq.com
 #屏蔽恶意扫描DNS
 0.0.0.0 >dns-spider.ffdns.net
@@ -23,6 +23,8 @@
 
 0.0.0.0 trace.ynet.com
 0.0.0.0 rel.discuz.soso.com
+0.0.0.0 ykatr.youku.com
+0.0.0.0 >useso.com
 
 #屏蔽百度定位泄漏真实位置：https://breakwa11.blogspot.com/2016/12/baidu.html
 0.0.0.0 api.map.baidu.com
@@ -34,6 +36,7 @@
 0.0.0.0 newloc.map.n.shifen.com
 
 #屏蔽百度JS大炮：https://us-somesky.rhcloud.com/net/baidu-js-ddos.html
+0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 m1.baidu.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mpro.baidu.com
@@ -81,16 +84,9 @@
 0.0.0.0 utk.baidu.com
 0.0.0.0 wangmeng.baidu.com
 
-#在线网络电视去弹窗#
-0.0.0.0 onetad.com
-0.0.0.0 code12.onetad.com
-0.0.0.0 ww201.keyyou.net
-0.0.0.0 www.qwcphm.cn
-0.0.0.0 vip.yule8.net
-0.0.0.0 vip2.rwjfs.com
-0.0.0.0 vip.media8.cn
-0.0.0.0 j.77power.com
-0.0.0.0 count.qiqipower.com
+#屏蔽PotPlayer的TV推送添加
+0.0.0.0 live.tvpot.daum.net
+0.0.0.0 potplayertv.daum.net
 
 #ADOBE防验证#
 0.0.0.0 activate.adobe.com
@@ -143,7 +139,6 @@
 0.0.0.0 www.ssl.bandisoft.com
 0.0.0.0 ssl.bandisoft.com
 0.0.0.0 bandisoft.com
-
 
 #其他去广告部分#
 #version=201610271215
