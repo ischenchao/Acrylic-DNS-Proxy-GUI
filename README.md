@@ -9,6 +9,7 @@
 注意：
 1. 我已几乎放弃更新在线配置和在线自定义HOSTS，所以最好不要点更新配置和更新HOSTS两个功能！
 2. 文件结构和旧版不一样，所以除了配置和HOSTS文件外都不相同，请完全卸载旧版后再用新版！
+3. 请使用管理员权限安装服务！
 
 下载：
 https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI/releases
