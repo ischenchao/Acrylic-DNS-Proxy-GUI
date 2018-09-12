@@ -1,7 +1,7 @@
-[推荐换用 DnsForwarder：https://github.com/holmium/dnsforwarder 更方便建立域名解析规则！]
-
-
-
+【推荐换用 DnsForwarder：https://github.com/holmium/dnsforwarder 更方便建立域名解析规则！】
+-
+-
+-
 AcrylicDnsProxyGUI 5.0已更新
 
 1. 新界面，精简了一些多余的功能
